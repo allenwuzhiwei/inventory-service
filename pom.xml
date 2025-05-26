@@ -8,10 +8,10 @@
 		<version>3.3.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.iss</groupId>
-	<artifactId>inventory</artifactId>
+	<groupId>com.nusiss</groupId>
+	<artifactId>inventory-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>inventory</name>
+	<name>inventory-service</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
